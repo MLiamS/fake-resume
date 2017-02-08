@@ -1,0 +1,41 @@
+html {background-image: url(http://www.planwallpaper.com/static/images/blue_abstract_background_310971.jpg);
+background-repeat: repeat-y;
+background-position: center;
+background-size: cover;
+}
+
+.email {
+  color: #48f442;
+}
+
+.skills {
+  font-family: sans-serif;
+}
+
+.skills h2 {
+  font-weight: bold;
+  color: green;
+}
+
+.skills ul {
+  font-size: 20px;
+}
+
+.experience {
+  font-size: 20px;
+      color: red;
+      background-image:url(http://www.shunvmall.com/data/out/193/46904046-random-image.gif);
+      background-repeat: no-repeat;
+}
+.experience h2  {
+  font-size: 25px;
+  color: green;
+}
+
+.awesome {
+  font-size: 24px;
+  text-decoration: overline;
+  text-overflow: ellipsis;
+  color: #ad1b2a;
+
+}
